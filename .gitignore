@@ -138,3 +138,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+FlaskTemplate/FlaskTemplate/static/
+FlaskTemplate/FlaskTemplate/templates/
+AppBlueprintSpilt/AppBlueprintSpilt/static/
+AppBlueprintSpilt/AppBlueprintSpilt/templates/
